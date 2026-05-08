@@ -1,4 +1,4 @@
-# KØRE MAP 🗺️
+# KØRE MAP 
 [![License: Proprietary](https://shields.io)](http://kore.unaux.com)
 [![Platform](https://shields.io)](https://www.kali.org)
 [![Language](https://shields.io)](https://python.org)
