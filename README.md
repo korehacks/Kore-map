@@ -46,7 +46,7 @@ python3 koremap.py --help
 ```
 
 ## 🌐 Official Links
-*   **Website:** [kore.unaux.com](http://unaux.com)
+*   **Website:** [kore.unaux.com](http://kore.unaux.com)
 *   **Community:** KØRE HACKING COMMUNITY
 
 ---
