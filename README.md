@@ -1,7 +1,8 @@
 # KØRE MAP 
-[![License: Proprietary](https://shields.io)](http://kore.unaux.com)
-[![Platform](https://shields.io)](https://www.kali.org)
-[![Language](https://shields.io)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue.svg)](https://www.kali.org)
+[![Language](https://img.shields.io/badge/Language-Python%203-blue.svg)](https://python.org)
+
 
 <p align="center">
   <img src="http://kore.unaux.com/logo.png" alt="KØRE Systems Logo" width="200">
